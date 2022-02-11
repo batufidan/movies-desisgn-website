@@ -1,5 +1,15 @@
 # movie-website
 
+-side scroll effect added
+
+
+
+
+Uploading movies design website.mp4…
+
+
+
+
 
 I made a watching youtube tuorials
 
